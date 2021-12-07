@@ -1,12 +1,28 @@
-[
 {
-    "id": 0,
-    "name": "Winston Williamson",
-    "avatar": "https://cdn.fakercloud.com/avatars/danmartin70_128.jpg"
-  },
-  {
-    "id": 1,
-    "name": "Caroline Abbott",
-    "avatar": "https://cdn.fakercloud.com/avatars/runningskull_128.jpg"
-  }
-]
+  "people": [
+    {
+      "id": 0,
+      "name": "John"
+    },
+    {
+      "name": "Yanna",
+      "id": 1
+    },
+    {
+      "name": "Nastya",
+      "id": 2
+    },
+    {
+      "name": "Nomto",
+      "id": 4
+    },
+    {
+      "name": "Masha",
+      "id": 5
+    },
+    {
+      "name": "Vika",
+      "id": 6
+    }
+  ]
+}
