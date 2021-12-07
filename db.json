@@ -1,5 +1,5 @@
 [
-  {
+{
     "id": 0,
     "name": "Winston Williamson",
     "avatar": "https://cdn.fakercloud.com/avatars/danmartin70_128.jpg"
@@ -48,90 +48,5 @@
     "id": 9,
     "name": "Phyllis Funk",
     "avatar": "https://cdn.fakercloud.com/avatars/renbyrd_128.jpg"
-  },
-  {
-    "id": 10,
-    "name": "Pam Cole",
-    "avatar": "https://cdn.fakercloud.com/avatars/michigangraham_128.jpg"
-  },
-  {
-    "id": 11,
-    "name": "Elijah Nienow",
-    "avatar": "https://cdn.fakercloud.com/avatars/shesgared_128.jpg"
-  },
-  {
-    "id": 12,
-    "name": "Leslie Mohr I",
-    "avatar": "https://cdn.fakercloud.com/avatars/newbrushes_128.jpg"
-  },
-  {
-    "id": 13,
-    "name": "Wilfred Christiansen",
-    "avatar": "https://cdn.fakercloud.com/avatars/michaelkoper_128.jpg"
-  },
-  {
-    "id": 14,
-    "name": "Frances Kilback MD",
-    "avatar": "https://cdn.fakercloud.com/avatars/ddggccaa_128.jpg"
-  },
-  {
-    "id": 15,
-    "name": "Jose Rath MD",
-    "avatar": "https://cdn.fakercloud.com/avatars/travis_arnold_128.jpg"
-  },
-  {
-    "id": 16,
-    "name": "Gerardo Pouros",
-    "avatar": "https://cdn.fakercloud.com/avatars/dreizle_128.jpg"
-  },
-  {
-    "id": 17,
-    "name": "Nicole Huel",
-    "avatar": "https://cdn.fakercloud.com/avatars/liminha_128.jpg"
-  },
-  {
-    "id": 18,
-    "name": "Edmund Rath",
-    "avatar": "https://cdn.fakercloud.com/avatars/vinciarts_128.jpg"
-  },
-  {
-    "id": 19,
-    "name": "Marianne Huels",
-    "avatar": "https://cdn.fakercloud.com/avatars/allfordesign_128.jpg"
-  },
-  {
-    "id": 20,
-    "name": "Whitney O'Reilly",
-    "avatar": "https://cdn.fakercloud.com/avatars/to_soham_128.jpg"
-  },
-  {
-    "id": 21,
-    "name": "James Kuphal",
-    "avatar": "https://cdn.fakercloud.com/avatars/damenleeturks_128.jpg"
-  },
-  {
-    "id": 22,
-    "name": "Francis Howell",
-    "avatar": "https://cdn.fakercloud.com/avatars/roxanejammet_128.jpg"
-  },
-  {
-    "id": 23,
-    "name": "Sean Wunsch",
-    "avatar": "https://cdn.fakercloud.com/avatars/diansigitp_128.jpg"
-  },
-  {
-    "id": 24,
-    "name": "Anne Trantow",
-    "avatar": "https://cdn.fakercloud.com/avatars/andytlaw_128.jpg"
-  },
-  {
-    "id": 25,
-    "name": "Mamie Shanahan",
-    "avatar": "https://cdn.fakercloud.com/avatars/moscoz_128.jpg"
-  },
-  {
-    "id": 26,
-    "name": "Marcos Feest",
-    "avatar": "https://cdn.fakercloud.com/avatars/iqonicd_128.jpg"
   }
 ]
