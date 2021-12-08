@@ -2,31 +2,38 @@
   "people": [
     {
       "id": 0,
-      "name": "John"
+      "name": "John",
+      "avatar": null
     },
     {
       "name": "Yanna",
-      "id": 1
+      "id": 1,
+      "avatar": null
     },
     {
       "name": "Nastya",
-      "id": 2
+      "id": 2,
+      "avatar": null
     },
     {
       "name": "Nomto",
-      "id": 4
+      "id": 4,
+      "avatar": null
     },
     {
       "name": "Masha",
-      "id": 5
+      "id": 5,
+      "avatar": null
     },
     {
       "name": "Vika",
-      "id": 6
+      "id": 6,
+      "avatar": null
     },
     {
       "name": "Gena",
-      "id": 7
+      "id": 7,
+      "avatar": null
     }
   ],
   "auth": [
