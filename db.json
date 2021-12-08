@@ -24,5 +24,12 @@
       "name": "Vika",
       "id": 6
     }
+  ],
+  "auth": [
+    {
+      "id": 0,
+      "login": "nomto",
+      "password": "password"
+    }
   ]
 }
