@@ -39,7 +39,7 @@
   "auth": [
     {
       "id": 0,
-      "login": "nomto_04@mail.ru",
+      "email": "nomto_04@mail.ru",
       "password": "incrediblesamurai"
     }
   ]
