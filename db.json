@@ -41,6 +41,16 @@
       "id": 0,
       "email": "nomto_04@mail.ru",
       "password": "incrediblesamurai"
+    },
+    {
+      "id": 1,
+      "email": "nomtoxxy_icex@icloud.com",
+      "password": "wayofsamurai"
+    },
+    {
+      "id": 2,
+      "email": "nomto@mail.ru",
+      "password": "invinsiblesamurai"
     }
   ]
 }
