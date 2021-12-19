@@ -29,6 +29,11 @@
       "name": "Маша",
       "avatar": null,
       "id": 5
+    },
+    {
+      "name" : "Пётр",
+      "avatar" null,
+      "id": 6
     }
   ],
   "auth": [
